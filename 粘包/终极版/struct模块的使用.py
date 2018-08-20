@@ -1,6 +1,7 @@
 import struct
 import json
 
+# 测试了一些东西
 
 # res=struct.pack('i',1230)
 # print(res,type(res),len(res))
